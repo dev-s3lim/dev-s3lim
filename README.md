@@ -43,7 +43,7 @@
 ![NURI-GS](https://img.shields.io/badge/NURI--GS-F6DD8D?style=for-the-badge&logoColor=black)
 ![LOTTE_HOTEL](https://img.shields.io/badge/LOTTE_HOTEL-ED1C24?style=for-the-badge&logoColor=white)  
 ![TOGLE](https://img.shields.io/badge/TOGLE-EF6F64?style=for-the-badge&logoColor=white)  
-![LAB_HUNDRED](https://img.shields.io/badge/LAB_HUNDRED-2B2B2B?style=for-the-badge&logoColor=black)   
+![LAB_HUNDRED](https://img.shields.io/badge/LAB_HUNDRED-2B2B2B?style=for-the-badge&logoColor=black)
 ![ONNURI_PHARMACY](https://img.shields.io/badge/ONNURI_PHARMACY-00A3E0?style=for-the-badge&logoColor=white)  
 ![ROK_Army_15th_Div](https://img.shields.io/badge/ROK_Army_15th_Div-4B5320?style=for-the-badge&logoColor=white)  
 ![DENTIS_USA](https://img.shields.io/badge/DENTIS_USA-FF4500?style=for-the-badge&logoColor=white)  
