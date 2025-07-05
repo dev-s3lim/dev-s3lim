@@ -30,7 +30,7 @@
 경영진과 개발자 간 간극을 좁히며,  
 조직이 추구하는 이상적인 플랫폼을 함께 만들어갑니다.  
 
-프로젝트의 전과정을 주도한 경험이 있으며,  
+프로젝트의 전 과정을 주도한 경험이 있으며,  
 궁극적으로는 서비스를 통해 **실질적인 수익 창출**과  
 **비즈니스 가치 실현**에 집중합니다.
 
@@ -157,7 +157,7 @@
 ![정보처리기사](https://img.shields.io/badge/Information_Processing_Engineer-FFB400?style=for-the-badge&logo=bookstack&logoColor=black)
 ![Bootcamp Completion](https://img.shields.io/badge/Beyond_SW_Bootcamp-FF7F50?style=for-the-badge&logo=academia&logoColor=white)
 
-> 🔸 **SQLD**: 데이터베이스 구조와 질의 최적화에 대한 전문 지식을 검증하는 국가공인 자격  
+> 🔸 **SQLD**: 데이터베이스 구조와 질의 최적화에 대한 전문 지식을 검증하는 국가공인 자격 취득  
 > 🔸 **정보처리기사**: 소프트웨어 개발, 데이터 처리, 시스템 설계 등 IT 전반 역량을 공식적으로 증명  
 > 🔸 **부트캠프 수료**: 한화시스템 Beyond SW 부트캠프 전 과정 이수 (백엔드 중심 실무 역량 강화)
 
